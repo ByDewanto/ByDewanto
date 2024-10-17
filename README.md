@@ -9,7 +9,8 @@ that's for now, thank you~!
 hit me up if there is game development project!
 
 </p>
-## 📊 GitHub Stats
+
+## GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pearlgw&show_icons=true&theme=radical" alt="Pearl's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ByDewanto&show_icons=true&theme=radical" alt="Asanagi's GitHub Stats">
 </p>

@@ -1,4 +1,4 @@
-<img src="banner.png" alt="banner" align="center" width="480">
+<img src="banner.png" alt="banner" align="center" width="800">
 <p>
 
 Name's Bayu Dewanto, I also go with Asanagi

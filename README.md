@@ -1,7 +1,7 @@
 <img src="banner.png" alt="banner" align="center" width="800">
 <p>
 
-Name's Bayu Dewanto, I also go with Asanagi
+Name's Bayu Dewanto,
 
 Learn about UNITY5 rn, is part of Bengkel Koding U22 with the deskjob of front-end and teaching web-development in 2 class.
 
